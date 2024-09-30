@@ -1,0 +1,8 @@
+com\myshop\pageobject\AccountRegistrationPage.class
+com\myshop\testcases\MyAccountPageTest.class
+com\myshop\pageobject\MyAccountPage.class
+com\myshop\testcases\Base.class
+com\myshop\utilities\ReadConfig.class
+com\myshop\utilities\ExtentListenerClass.class
+com\myshop\pageobject\IndexPage.class
+com\myshop\testcases\AccountRegistrationTest.class
